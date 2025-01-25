@@ -1,9 +1,8 @@
 const words = {
 	"words": [
-		"rishab"
+		"gadge"
 	],
 	"valid": [
-		"rishab",
 		"aahed",
 		"aalii",
 		"aargh",
