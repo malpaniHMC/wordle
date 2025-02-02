@@ -2,7 +2,7 @@ import seedRandom from "seedrandom";
 import { GameMode, ms } from "./enums";
 import wordList from "./words_6";
 
-export const ROWS = 6;
+export const ROWS = 8;
 export const COLS = 6;
 
 export const words = {
